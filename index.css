@@ -7,7 +7,7 @@
 
 :root {
     --tcolor: white;
-    --bg-url: url(./assets/bg-mobile.jpg);
+    --bg-url: url(./assets.2/bg-mobile.jpg);
     --stroke: rgba(255, 255, 255, 0.5);
     --surf: rgba(255,255,255, 0.05);
     --surf-hov: rgba(0,0,0, 0.02);
@@ -16,7 +16,7 @@
 
 .light {
     --tcolor: black;
-    --bg-url: url(./assets/bg-mobile-light.jpg);
+    --bg-url: url(./assets.2/bg-mobile-light.jpg);
     --stroke: rgba(0, 0, 0, 0.5);
     --surf: rgba(0,0,0, 0.05);
     --surf-hov: rgba(0,0,0, 0.02);
